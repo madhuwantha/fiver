@@ -1,0 +1,604 @@
+<svg width="892px" height="585px" viewBox="0 0 892 585" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>mockup-onboarding-segmentation@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-9.5%" y="-16.4%" width="119.1%" height="132.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="24.6371329" in="SourceGraphic"/>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="10.5913539" height="10.5913539"/>
+        <rect id="path-3" x="0" y="0" width="10.5913539" height="10.5913539"/>
+        <rect id="path-4" x="0" y="0" width="10.5913539" height="10.5913539"/>
+        <rect id="path-5" x="0" y="0" width="10.5913539" height="10.5913539"/>
+        <rect id="path-6" x="0" y="0" width="10.5913539" height="10.5913539"/>
+        <rect id="path-7" x="0" y="0" width="10.5913539" height="10.5913539"/>
+        <rect id="path-8" x="0" y="0" width="10.5913539" height="10.5913539"/>
+        <rect id="path-9" x="0" y="0" width="10.5913539" height="10.5913539"/>
+        <rect id="path-10" x="0" y="0" width="10.5913539" height="10.5913539"/>
+        <filter x="-36.9%" y="-28.7%" width="173.8%" height="157.5%" filterUnits="objectBoundingBox" id="filter-11">
+            <feGaussianBlur stdDeviation="29.5059945" in="SourceGraphic"/>
+        </filter>
+        <rect id="path-12" x="0" y="0" width="78" height="32" rx="4"/>
+        <rect id="path-13" x="0" y="0" width="190" height="29.0948276" rx="3"/>
+        <filter x="-7.8%" y="-44.2%" width="115.6%" height="202.1%" filterUnits="objectBoundingBox" id="filter-14">
+            <feMorphology radius="0.35" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"/>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"/>
+        </filter>
+        <rect id="path-15" x="32" y="83" width="190" height="30" rx="3"/>
+    </defs>
+    <g id="On-Boarding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Onboarding" transform="translate(-479.000000, -844.000000)">
+            <g id="mockup-onboarding-segmentation" transform="translate(515.000000, 876.000000)">
+                <rect id="Rectangle-14-Copy-18" fill-opacity="0.5" fill="#B4C3D9" filter="url(#filter-1)" x="23" y="27" width="774" height="452"/>
+                <g id="main-content-copy">
+                    <path d="M16.6382708,0.997624703 L808.541926,0.997624703 C817.290116,0.997624703 824.381926,8.08943427 824.381926,16.8376247 L824.381926,466.089721 C824.381926,474.837911 817.290116,481.929721 808.541926,481.929721 L16.6382708,481.929721 C7.89008035,481.929721 0.798270784,474.837911 0.798270784,466.089721 L0.798270784,16.8376247 C0.798270784,8.08943427 7.89008035,0.997624703 16.6382708,0.997624703 Z" id="bg" fill="#FFFFFF"/>
+                    <g id="List-of-users" transform="translate(26.217520, 57.001539)">
+                        <g id="User-Card-CRM-longer-v2">
+                            <g id="User-Card-CRM-longer">
+                                <g>
+                                    <g id="BG"/>
+                                    <g id="CONTACT" transform="translate(395.057501, 12.709625)">
+                                        <text id="331-173-2442" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#323C47">
+                                            <tspan x="0" y="18.3548124">331-173-2442</tspan>
+                                        </text>
+                                        <text id="Amy-Zimmerman" font-family="HelveticaNeue, Helvetica Neue" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#323C47">
+                                            <tspan x="137.687601" y="18.3548124">Amy Zimmerman</tspan>
+                                        </text>
+                                        <rect id="Rectangle" fill="#3A6BE3" opacity="0.1" x="241.482869" y="0" width="25.4192494" height="25.4192494" rx="3.17740618"/>
+                                        <text id="+2" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#3A6BE3">
+                                            <tspan x="246.778546" y="18.3548124">+2</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="E-MAIL" transform="translate(193.821777, 19.064437)" fill="#323C47" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247">
+                                        <text id="judah.howell@gmail.c">
+                                            <tspan x="0" y="12">judah.howell@gmail.com</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="User-ID" transform="translate(38.128874, 19.064437)" fill="#323C47" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247">
+                                        <text id="Augusta-Snyder">
+                                            <tspan x="0" y="12">Augusta Snyder</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="ACTION" transform="translate(693.733682, 12.709625)">
+                                        <g id="thumbnail/history/call">
+                                            <g>
+                                                <rect id="bg" fill="#03DC80" x="0" y="0" width="25.4192494" height="25.4192494" rx="2.9655791"/>
+                                                <g id="icon/chat-widget/phone" transform="translate(12.709625, 12.709625) rotate(-135.000000) translate(-12.709625, -12.709625) translate(4.236542, 4.236542)" fill="#FFFFFF" fill-rule="nonzero">
+                                                    <path d="M14.2599341,11.5633092 L12.2120959,9.50276132 C11.9022988,9.19058117 11.3978855,9.19058117 11.0872941,9.50117262 L9.26743468,11.321032 L5.29567696,7.34927429 L7.1179194,5.52703185 C7.4277165,5.21723474 7.42851086,4.71441022 7.11871375,4.40381876 L5.06928677,2.35121437 C4.75869532,2.04062292 4.25587079,2.04062292 3.94527933,2.35121437 L2.12144819,4.17425117 L2.11827078,4.17186811 C2.11827078,9.8753122 6.74139677,14.4984382 12.4448409,14.4984382 L14.2583454,12.6849336 C14.5681425,12.3751365 14.5689369,11.8739007 14.2599341,11.5633092 Z" transform="translate(8.304731, 8.308354) rotate(-225.000000) translate(-8.304731, -8.308354) "/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="thumbnail/history/message" transform="translate(33.892333, 0.000000)">
+                                            <g stroke-width="1" fill-rule="evenodd" fill="#3773EA" id="bg">
+                                                <rect x="0" y="0" width="25.4192494" height="25.4192494" rx="2.9655791"/>
+                                            </g>
+                                            <g id="icon/start-chat" transform="translate(6.354812, 7.413948)" fill="#FFFFFF" fill-rule="nonzero">
+                                                <path d="M0.809927064,0 L12.148906,0 C12.5959857,0 12.958833,0.362847325 12.958833,0.809927064 L12.958833,8.90919771 C12.958833,9.35627745 12.5959857,9.71912477 12.148906,9.71912477 L8.09927064,9.71912477 L3.23970826,12.958833 L3.23970826,9.71912477 L0.809927064,9.71912477 C0.362847325,9.71912477 0,9.35627745 0,8.90919771 L0,0.809927064 C0,0.362847325 0.362847325,0 0.809927064,0 Z"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="additional/checkbox/checked" transform="translate(12.709625, 20.123572)">
+                                        <g>
+                                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"/>
+                                            <rect stroke="#DDDDEB" stroke-width="0.741394774" x="0.370697387" y="0.370697387" width="9.84995914" height="9.84995914"/>
+                                        </g>
+                                        <g id="icon/checkmark-blue" transform="translate(2.118271, 2.118271)" fill="#3A6BE3" fill-rule="evenodd" stroke-width="1">
+                                            <g transform="translate(0.000000, 0.747625)" id="Shape">
+                                                <polygon fill-rule="nonzero" points="2.09334995 2.99049993 0.897149979 1.79429996 0 2.69144994 2.09334995 4.78479989 5.98099986 0.897149979 5.08384988 0"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <path d="M3.17740618,1.05913539 L775.287107,1.05913539" id="Line" stroke="#DDDDEB" stroke-width="0.741394774" stroke-linecap="square"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="User-Card-CRM-longer-v2" transform="translate(0.000000, 203.353995)">
+                            <g id="User-Card-CRM-longer">
+                                <g>
+                                    <g id="BG"/>
+                                    <g id="CONTACT" transform="translate(395.057501, 12.709625)">
+                                        <text id="331-173-2442" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#323C47">
+                                            <tspan x="0" y="18.3548124">150-946-3967</tspan>
+                                        </text>
+                                        <text id="Amy-Zimmerman" font-family="HelveticaNeue, Helvetica Neue" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#323C47">
+                                            <tspan x="137.687601" y="18.3548124">Amy Zimmerman</tspan>
+                                        </text>
+                                        <rect id="Rectangle" fill="#3A6BE3" opacity="0.1" x="241.482869" y="0" width="25.4192494" height="25.4192494" rx="3.17740618"/>
+                                        <text id="+2" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#3A6BE3">
+                                            <tspan x="246.778546" y="18.3548124">+2</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="E-MAIL" transform="translate(193.821777, 19.064437)" fill="#323C47" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247">
+                                        <text id="judah.howell@gmail.c">
+                                            <tspan x="0" y="12">domenica.legros@yahoo.com</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="User-ID" transform="translate(38.128874, 19.064437)" fill="#323C47" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247">
+                                        <text id="Augusta-Snyder">
+                                            <tspan x="0" y="12">Sylvia Fuller</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="ACTION" transform="translate(693.733682, 12.709625)">
+                                        <g id="thumbnail/history/call">
+                                            <g>
+                                                <rect id="bg" fill="#03DC80" x="0" y="0" width="25.4192494" height="25.4192494" rx="2.9655791"/>
+                                                <g id="icon/chat-widget/phone" transform="translate(12.709625, 12.709625) rotate(-135.000000) translate(-12.709625, -12.709625) translate(4.236542, 4.236542)" fill="#FFFFFF" fill-rule="nonzero">
+                                                    <path d="M14.2599341,11.5633092 L12.2120959,9.50276132 C11.9022988,9.19058117 11.3978855,9.19058117 11.0872941,9.50117262 L9.26743468,11.321032 L5.29567696,7.34927429 L7.1179194,5.52703185 C7.4277165,5.21723474 7.42851086,4.71441022 7.11871375,4.40381876 L5.06928677,2.35121437 C4.75869532,2.04062292 4.25587079,2.04062292 3.94527933,2.35121437 L2.12144819,4.17425117 L2.11827078,4.17186811 C2.11827078,9.8753122 6.74139677,14.4984382 12.4448409,14.4984382 L14.2583454,12.6849336 C14.5681425,12.3751365 14.5689369,11.8739007 14.2599341,11.5633092 Z" transform="translate(8.304731, 8.308354) rotate(-225.000000) translate(-8.304731, -8.308354) "/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="thumbnail/history/message" transform="translate(33.892333, 0.000000)">
+                                            <g stroke-width="1" fill-rule="evenodd" fill="#3773EA" id="bg">
+                                                <rect x="0" y="0" width="25.4192494" height="25.4192494" rx="2.9655791"/>
+                                            </g>
+                                            <g id="icon/start-chat" transform="translate(6.354812, 7.413948)" fill="#FFFFFF" fill-rule="nonzero">
+                                                <path d="M0.809927064,0 L12.148906,0 C12.5959857,0 12.958833,0.362847325 12.958833,0.809927064 L12.958833,8.90919771 C12.958833,9.35627745 12.5959857,9.71912477 12.148906,9.71912477 L8.09927064,9.71912477 L3.23970826,12.958833 L3.23970826,9.71912477 L0.809927064,9.71912477 C0.362847325,9.71912477 0,9.35627745 0,8.90919771 L0,0.809927064 C0,0.362847325 0.362847325,0 0.809927064,0 Z"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="additional/checkbox/checked" transform="translate(12.709625, 20.123572)">
+                                        <g>
+                                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"/>
+                                            <rect stroke="#DDDDEB" stroke-width="0.741394774" x="0.370697387" y="0.370697387" width="9.84995914" height="9.84995914"/>
+                                        </g>
+                                        <g id="icon/checkmark-blue" transform="translate(2.118271, 2.118271)" fill="#3A6BE3" fill-rule="evenodd" stroke-width="1">
+                                            <g transform="translate(0.000000, 0.747625)" id="Shape">
+                                                <polygon fill-rule="nonzero" points="2.09334995 2.99049993 0.897149979 1.79429996 0 2.69144994 2.09334995 4.78479989 5.98099986 0.897149979 5.08384988 0"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <path d="M3.17740618,1.05913539 L775.287107,1.05913539" id="Line" stroke="#DDDDEB" stroke-width="0.741394774" stroke-linecap="square"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="User-Card-CRM-longer" transform="translate(0.000000, 101.676998)">
+                            <g id="User-Card-CRM-longer-v2">
+                                <g id="User-Card-CRM-longer">
+                                    <g id="BG"/>
+                                    <g id="CONTACT" transform="translate(394.602495, 12.669377)">
+                                        <text id="331-173-2442" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#323C47">
+                                            <tspan x="-0.0443422025" y="18.3141051">668-577-4197</tspan>
+                                        </text>
+                                        <text id="Amy-Zimmerman" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#323C47">
+                                            <tspan x="137.474312" y="18.3141051">Amy Zimmerman</tspan>
+                                        </text>
+                                        <rect id="Rectangle" fill="#3A6BE3" opacity="0.1" x="241.204743" y="0" width="25.3899729" height="25.3387545" rx="3.17740618"/>
+                                        <text id="+2" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#3A6BE3">
+                                            <tspan x="246.486258" y="18.3141051">+2</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="E-MAIL" transform="translate(193.598543, 19.004066)" fill="#323C47" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247">
+                                        <text id="judah.howell@gmail.c">
+                                            <tspan x="0" y="12">lucy.hettinger@jamel.tv</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="User-ID" transform="translate(38.084959, 19.004066)" fill="#323C47" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247">
+                                        <text id="Augusta-Snyder">
+                                            <tspan x="0" y="12">Theodore Guerrero</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="ACTION" transform="translate(692.934677, 12.669377)">
+                                        <g id="thumbnail/history/call">
+                                            <g>
+                                                <rect id="bg" fill="#03DC80" x="0" y="0" width="25.4192494" height="25.4192494" rx="2.9655791"/>
+                                                <g id="icon/chat-widget/phone" transform="translate(12.709625, 12.709625) rotate(-135.000000) translate(-12.709625, -12.709625) translate(4.236542, 4.236542)" fill="#FFFFFF" fill-rule="nonzero">
+                                                    <path d="M14.2599341,11.5633092 L12.2120959,9.50276132 C11.9022988,9.19058117 11.3978855,9.19058117 11.0872941,9.50117262 L9.26743468,11.321032 L5.29567696,7.34927429 L7.1179194,5.52703185 C7.4277165,5.21723474 7.42851086,4.71441022 7.11871375,4.40381876 L5.06928677,2.35121437 C4.75869532,2.04062292 4.25587079,2.04062292 3.94527933,2.35121437 L2.12144819,4.17425117 L2.11827078,4.17186811 C2.11827078,9.8753122 6.74139677,14.4984382 12.4448409,14.4984382 L14.2583454,12.6849336 C14.5681425,12.3751365 14.5689369,11.8739007 14.2599341,11.5633092 Z" transform="translate(8.304731, 8.308354) rotate(-225.000000) translate(-8.304731, -8.308354) "/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="thumbnail/history/message" transform="translate(33.853297, 0.000000)">
+                                            <g stroke-width="1" fill-rule="evenodd" fill="#3773EA" id="bg">
+                                                <rect x="0" y="0" width="25.4192494" height="25.4192494" rx="2.9655791"/>
+                                            </g>
+                                            <g id="icon/start-chat" transform="translate(6.354812, 7.413948)" fill="#FFFFFF" fill-rule="nonzero">
+                                                <path d="M0.809927064,0 L12.148906,0 C12.5959857,0 12.958833,0.362847325 12.958833,0.809927064 L12.958833,8.90919771 C12.958833,9.35627745 12.5959857,9.71912477 12.148906,9.71912477 L8.09927064,9.71912477 L3.23970826,12.958833 L3.23970826,9.71912477 L0.809927064,9.71912477 C0.362847325,9.71912477 0,9.35627745 0,8.90919771 L0,0.809927064 C0,0.362847325 0.362847325,0 0.809927064,0 Z"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="additional/checkbox/checked" transform="translate(12.694986, 20.059847)">
+                                        <g>
+                                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"/>
+                                            <rect stroke="#DDDDEB" stroke-width="0.741394774" x="0.370697387" y="0.370697387" width="9.84995914" height="9.84995914"/>
+                                        </g>
+                                        <g id="icon/checkmark-blue" transform="translate(2.118271, 2.118271)" fill="#3A6BE3" fill-rule="evenodd" stroke-width="1">
+                                            <g transform="translate(0.000000, 0.747625)" id="Shape">
+                                                <polygon fill-rule="nonzero" points="2.09334995 2.99049993 0.897149979 1.79429996 0 2.69144994 2.09334995 4.78479989 5.98099986 0.897149979 5.08384988 0"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <path d="M3.17374661,1.05578144 L774.394173,1.05578144" id="Line" stroke="#DDDDEB" stroke-width="0.741394774" stroke-linecap="square"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="User-Card-CRM-longer-v2" transform="translate(0.000000, 305.030993)">
+                            <g id="User-Card-CRM-longer">
+                                <g>
+                                    <g id="BG"/>
+                                    <g id="CONTACT" transform="translate(395.057501, 12.709625)">
+                                        <text id="331-173-2442" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#323C47">
+                                            <tspan x="0" y="18.3548124">331-173-2442</tspan>
+                                        </text>
+                                        <text id="Amy-Zimmerman" font-family="HelveticaNeue, Helvetica Neue" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#323C47">
+                                            <tspan x="137.687601" y="18.3548124">Amy Zimmerman</tspan>
+                                        </text>
+                                        <rect id="Rectangle" fill="#3A6BE3" opacity="0.1" x="241.482869" y="0" width="25.4192494" height="25.4192494" rx="3.17740618"/>
+                                        <text id="+2" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#3A6BE3">
+                                            <tspan x="246.778546" y="18.3548124">+2</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="E-MAIL" transform="translate(193.821777, 19.064437)" fill="#323C47" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247">
+                                        <text id="judah.howell@gmail.c">
+                                            <tspan x="0" y="12">lidia.baker@gmail.com</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="User-ID" transform="translate(38.128874, 19.064437)" fill="#323C47" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247">
+                                        <text id="Augusta-Snyder">
+                                            <tspan x="0" y="12">Lida Baker</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="ACTION" transform="translate(693.733682, 12.709625)">
+                                        <g id="thumbnail/history/call">
+                                            <g>
+                                                <rect id="bg" fill="#03DC80" x="0" y="0" width="25.4192494" height="25.4192494" rx="2.9655791"/>
+                                                <g id="icon/chat-widget/phone" transform="translate(12.709625, 12.709625) rotate(-135.000000) translate(-12.709625, -12.709625) translate(4.236542, 4.236542)" fill="#FFFFFF" fill-rule="nonzero">
+                                                    <path d="M14.2599341,11.5633092 L12.2120959,9.50276132 C11.9022988,9.19058117 11.3978855,9.19058117 11.0872941,9.50117262 L9.26743468,11.321032 L5.29567696,7.34927429 L7.1179194,5.52703185 C7.4277165,5.21723474 7.42851086,4.71441022 7.11871375,4.40381876 L5.06928677,2.35121437 C4.75869532,2.04062292 4.25587079,2.04062292 3.94527933,2.35121437 L2.12144819,4.17425117 L2.11827078,4.17186811 C2.11827078,9.8753122 6.74139677,14.4984382 12.4448409,14.4984382 L14.2583454,12.6849336 C14.5681425,12.3751365 14.5689369,11.8739007 14.2599341,11.5633092 Z" transform="translate(8.304731, 8.308354) rotate(-225.000000) translate(-8.304731, -8.308354) "/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="thumbnail/history/message" transform="translate(33.892333, 0.000000)">
+                                            <g stroke-width="1" fill-rule="evenodd" fill="#3773EA" id="bg">
+                                                <rect x="0" y="0" width="25.4192494" height="25.4192494" rx="2.9655791"/>
+                                            </g>
+                                            <g id="icon/start-chat" transform="translate(6.354812, 7.413948)" fill="#FFFFFF" fill-rule="nonzero">
+                                                <path d="M0.809927064,0 L12.148906,0 C12.5959857,0 12.958833,0.362847325 12.958833,0.809927064 L12.958833,8.90919771 C12.958833,9.35627745 12.5959857,9.71912477 12.148906,9.71912477 L8.09927064,9.71912477 L3.23970826,12.958833 L3.23970826,9.71912477 L0.809927064,9.71912477 C0.362847325,9.71912477 0,9.35627745 0,8.90919771 L0,0.809927064 C0,0.362847325 0.362847325,0 0.809927064,0 Z"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="additional/checkbox/checked" transform="translate(12.709625, 20.123572)">
+                                        <g>
+                                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"/>
+                                            <rect stroke="#DDDDEB" stroke-width="0.741394774" x="0.370697387" y="0.370697387" width="9.84995914" height="9.84995914"/>
+                                        </g>
+                                        <g id="icon/checkmark-blue" transform="translate(2.118271, 2.118271)" fill="#3A6BE3" fill-rule="evenodd" stroke-width="1">
+                                            <g transform="translate(0.000000, 0.747625)" id="Shape">
+                                                <polygon fill-rule="nonzero" points="2.09334995 2.99049993 0.897149979 1.79429996 0 2.69144994 2.09334995 4.78479989 5.98099986 0.897149979 5.08384988 0"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <path d="M3.17740618,1.05913539 L775.287107,1.05913539" id="Line" stroke="#DDDDEB" stroke-width="0.741394774" stroke-linecap="square"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="User-Card-CRM-longer-v2" transform="translate(0.000000, 50.838499)">
+                            <g id="User-Card-CRM-longer">
+                                <g>
+                                    <g id="BG"/>
+                                    <g id="CONTACT" transform="translate(395.057501, 12.709625)">
+                                        <text id="331-173-2442" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#323C47">
+                                            <tspan x="0" y="18.3548124">410-084-5061</tspan>
+                                        </text>
+                                        <text id="Amy-Zimmerman" font-family="HelveticaNeue, Helvetica Neue" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#323C47">
+                                            <tspan x="137.687601" y="18.3548124">Amy Zimmerman</tspan>
+                                        </text>
+                                        <rect id="Rectangle" fill="#3A6BE3" opacity="0.1" x="241.482869" y="0" width="25.4192494" height="25.4192494" rx="3.17740618"/>
+                                        <text id="+2" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#3A6BE3">
+                                            <tspan x="246.778546" y="18.3548124">+2</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="E-MAIL" transform="translate(193.821777, 19.064437)" fill="#323C47" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247">
+                                        <text id="judah.howell@gmail.c">
+                                            <tspan x="0" y="12">larissa.flatley@yahoo.com</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="User-ID" transform="translate(38.128874, 19.064437)" fill="#323C47" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247">
+                                        <text id="Augusta-Snyder">
+                                            <tspan x="0" y="12">Lida Baker</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="ACTION" transform="translate(693.733682, 12.709625)">
+                                        <g id="thumbnail/history/call">
+                                            <g>
+                                                <rect id="bg" fill="#03DC80" x="0" y="0" width="25.4192494" height="25.4192494" rx="2.9655791"/>
+                                                <g id="icon/chat-widget/phone" transform="translate(12.709625, 12.709625) rotate(-135.000000) translate(-12.709625, -12.709625) translate(4.236542, 4.236542)" fill="#FFFFFF" fill-rule="nonzero">
+                                                    <path d="M14.2599341,11.5633092 L12.2120959,9.50276132 C11.9022988,9.19058117 11.3978855,9.19058117 11.0872941,9.50117262 L9.26743468,11.321032 L5.29567696,7.34927429 L7.1179194,5.52703185 C7.4277165,5.21723474 7.42851086,4.71441022 7.11871375,4.40381876 L5.06928677,2.35121437 C4.75869532,2.04062292 4.25587079,2.04062292 3.94527933,2.35121437 L2.12144819,4.17425117 L2.11827078,4.17186811 C2.11827078,9.8753122 6.74139677,14.4984382 12.4448409,14.4984382 L14.2583454,12.6849336 C14.5681425,12.3751365 14.5689369,11.8739007 14.2599341,11.5633092 Z" transform="translate(8.304731, 8.308354) rotate(-225.000000) translate(-8.304731, -8.308354) "/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="thumbnail/history/message" transform="translate(33.892333, 0.000000)">
+                                            <g stroke-width="1" fill-rule="evenodd" fill="#3773EA" id="bg">
+                                                <rect x="0" y="0" width="25.4192494" height="25.4192494" rx="2.9655791"/>
+                                            </g>
+                                            <g id="icon/start-chat" transform="translate(6.354812, 7.413948)" fill="#FFFFFF" fill-rule="nonzero">
+                                                <path d="M0.809927064,0 L12.148906,0 C12.5959857,0 12.958833,0.362847325 12.958833,0.809927064 L12.958833,8.90919771 C12.958833,9.35627745 12.5959857,9.71912477 12.148906,9.71912477 L8.09927064,9.71912477 L3.23970826,12.958833 L3.23970826,9.71912477 L0.809927064,9.71912477 C0.362847325,9.71912477 0,9.35627745 0,8.90919771 L0,0.809927064 C0,0.362847325 0.362847325,0 0.809927064,0 Z"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="additional/checkbox/checked" transform="translate(12.709625, 20.123572)">
+                                        <g>
+                                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"/>
+                                            <rect stroke="#DDDDEB" stroke-width="0.741394774" x="0.370697387" y="0.370697387" width="9.84995914" height="9.84995914"/>
+                                        </g>
+                                        <g id="icon/checkmark-blue" transform="translate(2.118271, 2.118271)" fill="#3A6BE3" fill-rule="evenodd" stroke-width="1">
+                                            <g transform="translate(0.000000, 0.747625)" id="Shape">
+                                                <polygon fill-rule="nonzero" points="2.09334995 2.99049993 0.897149979 1.79429996 0 2.69144994 2.09334995 4.78479989 5.98099986 0.897149979 5.08384988 0"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <path d="M3.17740618,1.05913539 L775.287107,1.05913539" id="Line" stroke="#DDDDEB" stroke-width="0.741394774" stroke-linecap="square"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="User-Card-CRM-longer-v2" transform="translate(0.000000, 254.192494)">
+                            <g id="User-Card-CRM-longer">
+                                <g>
+                                    <g id="BG"/>
+                                    <g id="CONTACT" transform="translate(395.057501, 12.709625)">
+                                        <text id="331-173-2442" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#323C47">
+                                            <tspan x="0" y="18.3548124">331-173-2442</tspan>
+                                        </text>
+                                        <text id="Amy-Zimmerman" font-family="HelveticaNeue, Helvetica Neue" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#323C47">
+                                            <tspan x="137.687601" y="18.3548124">Amy Zimmerman</tspan>
+                                        </text>
+                                        <rect id="Rectangle" fill="#3A6BE3" opacity="0.1" x="241.482869" y="0" width="25.4192494" height="25.4192494" rx="3.17740618"/>
+                                        <text id="+2" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#3A6BE3">
+                                            <tspan x="246.778546" y="18.3548124">+2</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="E-MAIL" transform="translate(193.821777, 19.064437)" fill="#323C47" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247">
+                                        <text id="judah.howell@gmail.c">
+                                            <tspan x="0" y="12">marks_morris@gmail.com</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="User-ID" transform="translate(38.128874, 19.064437)" fill="#323C47" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247">
+                                        <text id="Augusta-Snyder">
+                                            <tspan x="0" y="12">Caleb Wolfe</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="ACTION" transform="translate(693.733682, 12.709625)">
+                                        <g id="thumbnail/history/call">
+                                            <g>
+                                                <rect id="bg" fill="#03DC80" x="0" y="0" width="25.4192494" height="25.4192494" rx="2.9655791"/>
+                                                <g id="icon/chat-widget/phone" transform="translate(12.709625, 12.709625) rotate(-135.000000) translate(-12.709625, -12.709625) translate(4.236542, 4.236542)" fill="#FFFFFF" fill-rule="nonzero">
+                                                    <path d="M14.2599341,11.5633092 L12.2120959,9.50276132 C11.9022988,9.19058117 11.3978855,9.19058117 11.0872941,9.50117262 L9.26743468,11.321032 L5.29567696,7.34927429 L7.1179194,5.52703185 C7.4277165,5.21723474 7.42851086,4.71441022 7.11871375,4.40381876 L5.06928677,2.35121437 C4.75869532,2.04062292 4.25587079,2.04062292 3.94527933,2.35121437 L2.12144819,4.17425117 L2.11827078,4.17186811 C2.11827078,9.8753122 6.74139677,14.4984382 12.4448409,14.4984382 L14.2583454,12.6849336 C14.5681425,12.3751365 14.5689369,11.8739007 14.2599341,11.5633092 Z" transform="translate(8.304731, 8.308354) rotate(-225.000000) translate(-8.304731, -8.308354) "/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="thumbnail/history/message" transform="translate(33.892333, 0.000000)">
+                                            <g stroke-width="1" fill-rule="evenodd" fill="#3773EA" id="bg">
+                                                <rect x="0" y="0" width="25.4192494" height="25.4192494" rx="2.9655791"/>
+                                            </g>
+                                            <g id="icon/start-chat" transform="translate(6.354812, 7.413948)" fill="#FFFFFF" fill-rule="nonzero">
+                                                <path d="M0.809927064,0 L12.148906,0 C12.5959857,0 12.958833,0.362847325 12.958833,0.809927064 L12.958833,8.90919771 C12.958833,9.35627745 12.5959857,9.71912477 12.148906,9.71912477 L8.09927064,9.71912477 L3.23970826,12.958833 L3.23970826,9.71912477 L0.809927064,9.71912477 C0.362847325,9.71912477 0,9.35627745 0,8.90919771 L0,0.809927064 C0,0.362847325 0.362847325,0 0.809927064,0 Z"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="additional/checkbox/checked" transform="translate(12.709625, 20.123572)">
+                                        <g>
+                                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"/>
+                                            <rect stroke="#DDDDEB" stroke-width="0.741394774" x="0.370697387" y="0.370697387" width="9.84995914" height="9.84995914"/>
+                                        </g>
+                                        <g id="icon/checkmark-blue" transform="translate(2.118271, 2.118271)" fill="#3A6BE3" fill-rule="evenodd" stroke-width="1">
+                                            <g transform="translate(0.000000, 0.747625)" id="Shape">
+                                                <polygon fill-rule="nonzero" points="2.09334995 2.99049993 0.897149979 1.79429996 0 2.69144994 2.09334995 4.78479989 5.98099986 0.897149979 5.08384988 0"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <path d="M3.17740618,1.05913539 L775.287107,1.05913539" id="Line" stroke="#DDDDEB" stroke-width="0.741394774" stroke-linecap="square"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="User-Card-CRM-longer-v2" transform="translate(0.000000, 152.515496)">
+                            <g id="User-Card-CRM-longer">
+                                <g>
+                                    <g id="BG"/>
+                                    <g id="CONTACT" transform="translate(395.057501, 12.709625)">
+                                        <text id="331-173-2442" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#323C47">
+                                            <tspan x="0" y="18.3548124">730-256-4857</tspan>
+                                        </text>
+                                        <text id="Amy-Zimmerman" font-family="HelveticaNeue, Helvetica Neue" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#323C47">
+                                            <tspan x="137.687601" y="18.3548124">Amy Zimmerman</tspan>
+                                        </text>
+                                        <rect id="Rectangle" fill="#3A6BE3" opacity="0.1" x="241.482869" y="0" width="25.4192494" height="25.4192494" rx="3.17740618"/>
+                                        <text id="+2" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#3A6BE3">
+                                            <tspan x="246.778546" y="18.3548124">+2</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="E-MAIL" transform="translate(193.821777, 19.064437)" fill="#323C47" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247">
+                                        <text id="judah.howell@gmail.c">
+                                            <tspan x="0" y="12">abernathy_narciso@corbin.com</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="User-ID" transform="translate(38.128874, 19.064437)" fill="#323C47" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247">
+                                        <text id="Augusta-Snyder">
+                                            <tspan x="0" y="12">Richard Simpson</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="ACTION" transform="translate(693.733682, 12.709625)">
+                                        <g id="thumbnail/history/call">
+                                            <g>
+                                                <rect id="bg" fill="#03DC80" x="0" y="0" width="25.4192494" height="25.4192494" rx="2.9655791"/>
+                                                <g id="icon/chat-widget/phone" transform="translate(12.709625, 12.709625) rotate(-135.000000) translate(-12.709625, -12.709625) translate(4.236542, 4.236542)" fill="#FFFFFF" fill-rule="nonzero">
+                                                    <path d="M14.2599341,11.5633092 L12.2120959,9.50276132 C11.9022988,9.19058117 11.3978855,9.19058117 11.0872941,9.50117262 L9.26743468,11.321032 L5.29567696,7.34927429 L7.1179194,5.52703185 C7.4277165,5.21723474 7.42851086,4.71441022 7.11871375,4.40381876 L5.06928677,2.35121437 C4.75869532,2.04062292 4.25587079,2.04062292 3.94527933,2.35121437 L2.12144819,4.17425117 L2.11827078,4.17186811 C2.11827078,9.8753122 6.74139677,14.4984382 12.4448409,14.4984382 L14.2583454,12.6849336 C14.5681425,12.3751365 14.5689369,11.8739007 14.2599341,11.5633092 Z" transform="translate(8.304731, 8.308354) rotate(-225.000000) translate(-8.304731, -8.308354) "/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="thumbnail/history/message" transform="translate(33.892333, 0.000000)">
+                                            <g stroke-width="1" fill-rule="evenodd" fill="#3773EA" id="bg">
+                                                <rect x="0" y="0" width="25.4192494" height="25.4192494" rx="2.9655791"/>
+                                            </g>
+                                            <g id="icon/start-chat" transform="translate(6.354812, 7.413948)" fill="#FFFFFF" fill-rule="nonzero">
+                                                <path d="M0.809927064,0 L12.148906,0 C12.5959857,0 12.958833,0.362847325 12.958833,0.809927064 L12.958833,8.90919771 C12.958833,9.35627745 12.5959857,9.71912477 12.148906,9.71912477 L8.09927064,9.71912477 L3.23970826,12.958833 L3.23970826,9.71912477 L0.809927064,9.71912477 C0.362847325,9.71912477 0,9.35627745 0,8.90919771 L0,0.809927064 C0,0.362847325 0.362847325,0 0.809927064,0 Z"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="additional/checkbox/checked" transform="translate(12.709625, 20.123572)">
+                                        <g>
+                                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"/>
+                                            <rect stroke="#DDDDEB" stroke-width="0.741394774" x="0.370697387" y="0.370697387" width="9.84995914" height="9.84995914"/>
+                                        </g>
+                                        <g id="icon/checkmark-blue" transform="translate(2.118271, 2.118271)" fill="#3A6BE3" fill-rule="evenodd" stroke-width="1">
+                                            <g transform="translate(0.000000, 0.747625)" id="Shape">
+                                                <polygon fill-rule="nonzero" points="2.09334995 2.99049993 0.897149979 1.79429996 0 2.69144994 2.09334995 4.78479989 5.98099986 0.897149979 5.08384988 0"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <path d="M3.17740618,1.05913539 L775.287107,1.05913539" id="Line" stroke="#DDDDEB" stroke-width="0.741394774" stroke-linecap="square"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="User-Card-CRM-longer-v2" transform="translate(0.000000, 355.869492)">
+                            <g id="User-Card-CRM-longer">
+                                <g>
+                                    <g id="BG"/>
+                                    <g id="CONTACT" transform="translate(395.057501, 12.709625)">
+                                        <text id="331-173-2442" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#323C47">
+                                            <tspan x="0" y="18.3548124">331-173-2442</tspan>
+                                        </text>
+                                        <text id="Amy-Zimmerman" font-family="HelveticaNeue, Helvetica Neue" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#323C47">
+                                            <tspan x="137.687601" y="18.3548124">Amy Zimmerman</tspan>
+                                        </text>
+                                        <rect id="Rectangle" fill="#3A6BE3" opacity="0.1" x="241.482869" y="0" width="25.4192494" height="25.4192494" rx="3.17740618"/>
+                                        <text id="+2" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247" fill="#3A6BE3">
+                                            <tspan x="246.778546" y="18.3548124">+2</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="E-MAIL" transform="translate(193.821777, 19.064437)" fill="#323C47" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247">
+                                        <text id="judah.howell@gmail.c">
+                                            <tspan x="0" y="12">andreas.schneider@yahoo.com</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="User-ID" transform="translate(38.128874, 19.064437)" fill="#323C47" font-family="Arial" font-size="12.7096247" font-weight="normal" line-spacing="12.7096247">
+                                        <text id="Augusta-Snyder">
+                                            <tspan x="0" y="12">Andreas Schneider</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="ACTION" transform="translate(693.733682, 12.709625)">
+                                        <g id="thumbnail/history/call">
+                                            <g>
+                                                <rect id="bg" fill="#03DC80" x="0" y="0" width="25.4192494" height="25.4192494" rx="2.9655791"/>
+                                                <g id="icon/chat-widget/phone" transform="translate(12.709625, 12.709625) rotate(-135.000000) translate(-12.709625, -12.709625) translate(4.236542, 4.236542)" fill="#FFFFFF" fill-rule="nonzero">
+                                                    <path d="M14.2599341,11.5633092 L12.2120959,9.50276132 C11.9022988,9.19058117 11.3978855,9.19058117 11.0872941,9.50117262 L9.26743468,11.321032 L5.29567696,7.34927429 L7.1179194,5.52703185 C7.4277165,5.21723474 7.42851086,4.71441022 7.11871375,4.40381876 L5.06928677,2.35121437 C4.75869532,2.04062292 4.25587079,2.04062292 3.94527933,2.35121437 L2.12144819,4.17425117 L2.11827078,4.17186811 C2.11827078,9.8753122 6.74139677,14.4984382 12.4448409,14.4984382 L14.2583454,12.6849336 C14.5681425,12.3751365 14.5689369,11.8739007 14.2599341,11.5633092 Z" transform="translate(8.304731, 8.308354) rotate(-225.000000) translate(-8.304731, -8.308354) "/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="thumbnail/history/message" transform="translate(33.892333, 0.000000)">
+                                            <g stroke-width="1" fill-rule="evenodd" fill="#3773EA" id="bg">
+                                                <rect x="0" y="0" width="25.4192494" height="25.4192494" rx="2.9655791"/>
+                                            </g>
+                                            <g id="icon/start-chat" transform="translate(6.354812, 7.413948)" fill="#FFFFFF" fill-rule="nonzero">
+                                                <path d="M0.809927064,0 L12.148906,0 C12.5959857,0 12.958833,0.362847325 12.958833,0.809927064 L12.958833,8.90919771 C12.958833,9.35627745 12.5959857,9.71912477 12.148906,9.71912477 L8.09927064,9.71912477 L3.23970826,12.958833 L3.23970826,9.71912477 L0.809927064,9.71912477 C0.362847325,9.71912477 0,9.35627745 0,8.90919771 L0,0.809927064 C0,0.362847325 0.362847325,0 0.809927064,0 Z"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="additional/checkbox/checked" transform="translate(12.709625, 20.123572)">
+                                        <g>
+                                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"/>
+                                            <rect stroke="#DDDDEB" stroke-width="0.741394774" x="0.370697387" y="0.370697387" width="9.84995914" height="9.84995914"/>
+                                        </g>
+                                        <g id="icon/checkmark-blue" transform="translate(2.118271, 2.118271)" fill="#3A6BE3" fill-rule="evenodd" stroke-width="1">
+                                            <g transform="translate(0.000000, 0.747625)" id="Shape">
+                                                <polygon fill-rule="nonzero" points="2.09334995 2.99049993 0.897149979 1.79429996 0 2.69144994 2.09334995 4.78479989 5.98099986 0.897149979 5.08384988 0"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <path d="M3.17740618,1.05913539 L775.287107,1.05913539" id="Line" stroke="#DDDDEB" stroke-width="0.741394774" stroke-linecap="square"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="categories" transform="translate(38.927145, 29.464019)">
+                        <g id="additional/checkbox/empty">
+                            <g>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-10"/>
+                                <rect stroke="#DDDDEB" stroke-width="0.741394774" x="0.370697387" y="0.370697387" width="9.84995914" height="9.84995914"/>
+                            </g>
+                        </g>
+                        <text id="ACTION" font-family="Arial" font-size="10.5913539" line-spacing="10.5913539" fill="#A1A4B0" font-weight="bold">
+                            <tspan x="686.319734" y="10">ACTION</tspan>
+                        </text>
+                        <text id="E-MAIL" font-family="Arial" font-size="10.5913539" line-spacing="10.5913539" fill="#A1A4B0" font-weight="bold">
+                            <tspan x="182.171287" y="10">E-MAIL</tspan>
+                        </text>
+                        <text id="CONTACT" font-family="Arial" font-size="10.5913539" line-spacing="10.5913539" fill="#A1A4B0" font-weight="bold">
+                            <tspan x="383.407012" y="10">CONTACT</tspan>
+                        </text>
+                        <text id="ASSIGNED-AGENT" font-family="Arial" font-size="10.5913539" line-spacing="10.5913539" fill="#A1A4B0" font-weight="bold">
+                            <tspan x="530.626831" y="10">ASSIGNED AGENT</tspan>
+                        </text>
+                        <text id="USER-NAME" font-family="Arial" font-size="10.5913539" line-spacing="10.5913539" fill="#A1A4B0" font-weight="bold">
+                            <tspan x="25.4192494" y="10">USER NAME</tspan>
+                        </text>
+                    </g>
+                </g>
+                <rect id="Rectangle-14-Copy-19" fill-opacity="0.5" fill="#B4C3D9" filter="url(#filter-11)" x="452" y="174" width="240" height="308"/>
+                <g id="Group-14" transform="translate(442.000000, 156.000000)">
+                    <path d="M4,0 L250,0 C252.209139,-4.05812251e-16 254,1.790861 254,4 L254,322 C254,324.209139 252.209139,326 250,326 L4,326 C1.790861,326 2.705415e-16,324.209139 0,322 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="bg-copy" fill="#FFFFFF"/>
+                    <g id="btn/medium-solid/start-chat" transform="translate(126.000000, 262.000000)">
+                        <g>
+                            <rect id="btn-bg" fill="#3A6BE3" x="0" y="0" width="90" height="32" rx="4"/>
+                            <text id="Start-Chat" font-family="ArialMT, Arial" font-size="12" font-weight="normal" letter-spacing="0.100000001" fill="#FFFFFF">
+                                <tspan x="31.6242187" y="20">Save</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="btn/medium-outline/cancel" transform="translate(32.000000, 262.000000)">
+                        <g>
+                            <g id="Rectangle">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"/>
+                                <rect stroke="#DDDDEB" stroke-width="0.7" x="0.35" y="0.35" width="77.3" height="31.3" rx="4"/>
+                            </g>
+                            <text id="Cancel" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#323C47">
+                                <tspan x="20.8232422" y="20">Cancel</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <rect id="input-field" stroke="#DDDDEB" stroke-width="0.7" x="32.35" y="146.35" width="189.3" height="28.6617021" rx="3"/>
+                    <text id="Premium-Leads" font-family="Arial" font-size="10" font-weight="normal" line-spacing="8" fill="#323C47">
+                        <tspan x="40" y="166">Premium Leads</tspan>
+                    </text>
+                    <text id="E-mail" font-family="Arial" font-size="10" font-weight="normal" line-spacing="8" fill="#8197B1">
+                        <tspan x="36" y="140">Group name</tspan>
+                    </text>
+                    <g id="form/input-form/dropdown/select-agent-or-department" transform="translate(32.000000, 192.000000)">
+                        <g>
+                            <g id="dropdown/hidden" transform="translate(0.000000, 16.000000)">
+                                <g id="Dropdown">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"/>
+                                    <use stroke="#DDDDEB" stroke-width="0.7" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"/>
+                                </g>
+                                <g id="icon/dropdown-arrow" transform="translate(174.000000, 14.758621) scale(1, -1) rotate(-180.000000) translate(-174.000000, -14.758621) translate(166.000000, 7.000000)" fill="#8197B1" stroke="#8197B1" stroke-linecap="round" stroke-linejoin="round">
+                                    <polygon id="icon-dropdown-arrow" points="6 7 11 7 8.52297391 9.32911056"/>
+                                </g>
+                                <text id="Agent,-Department" font-family="ArialMT, Arial" font-size="10" font-weight="normal" line-spacing="8" fill="#323C47">
+                                    <tspan x="8" y="19.5474138">200 Contacts Selected</tspan>
+                                </text>
+                            </g>
+                            <text id="Choose-Deparment-or" font-family="ArialMT, Arial" font-size="10" font-weight="normal" line-spacing="8" fill="#8197B1">
+                                <tspan x="0" y="9">Selected Group</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Dropdown">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"/>
+                        <rect stroke="#DDDDEB" stroke-width="0.7" x="32.35" y="83.35" width="189.3" height="29.3" rx="3"/>
+                    </g>
+                    <g id="icon/dropdown-arrow" transform="translate(212.500000, 98.500000) scale(1, -1) rotate(-180.000000) translate(-212.500000, -98.500000) translate(205.000000, 91.000000)" fill="#8197B1" stroke="#8197B1" stroke-linecap="round" stroke-linejoin="round">
+                        <polygon id="icon-dropdown-arrow" points="5.625 6.5625 10.3125 6.5625 7.99028804 8.74604115"/>
+                    </g>
+                    <text id="Premium-Leads" font-family="Arial" font-size="10" font-weight="normal" line-spacing="8" fill="#323C47">
+                        <tspan x="40" y="104">Premium Leads</tspan>
+                    </text>
+                    <text id="Type" font-family="Arial" font-size="10" font-weight="normal" line-spacing="8" fill="#8197B1">
+                        <tspan x="32" y="77">Type</tspan>
+                    </text>
+                    <text id="Create-New-Segment" font-family="Arial" font-size="16" font-weight="normal" fill="#323C47">
+                        <tspan x="32" y="47">Create New Segment</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

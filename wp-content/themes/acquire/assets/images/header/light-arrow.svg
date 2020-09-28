@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>link-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-10" transform="translate(-1255.000000, -13.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="0.3">
+            <g id="Group-47" transform="translate(653.000000, 7.000000)">
+                <g id="Group" transform="translate(519.000000, 0.000000)">
+                    <g id="link-arrow" transform="translate(84.000000, 7.000000)">
+                        <path d="M9.854,5.37 L5.563,1.075 C5.34058661,0.825876519 5.35121665,0.446481551 5.58723025,0.210202466 C5.82324386,-0.0260766189 6.20262663,-0.0371331823 6.452,0.185 L11.816,5.556 C12.0613946,5.80192072 12.0613946,6.20007928 11.816,6.446 L6.452,11.816 C6.29301681,11.9749832 6.06129377,12.0370732 5.84411869,11.9788813 C5.62694362,11.9206894 5.45731057,11.7510564 5.39911869,11.5338813 C5.3409268,11.3167062 5.40301681,11.0849832 5.562,10.926 L9.854,6.63 L0.629,6.63 C0.281612892,6.63 2.22044605e-16,6.34838711 2.22044605e-16,6.001 C2.22044605e-16,5.65361289 0.281612892,5.372 0.629,5.372 L9.854,5.372 L9.854,5.37 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

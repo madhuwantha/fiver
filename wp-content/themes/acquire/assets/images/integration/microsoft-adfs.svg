@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>windows app</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="windows-app">
+            <g id="Group-5">
+                <rect id="Rectangle-Copy-38" fill="#00ADEF" x="0" y="0" width="50" height="50" rx="4"></rect>
+                <path d="M12,15.6103773 L22.4210416,14.1955123 L22.425597,24.2164781 L12.0095196,24.2756118 L12,15.6103773 Z M22.4160774,25.3710885 L22.4241661,35.4007877 L12.0080887,33.9731429 L12.0075047,25.3038124 L22.4160774,25.3710885 Z M23.6793516,14.010423 L37.4967879,12 L37.4967879,24.0890291 L23.6793516,24.1983855 L23.6793516,14.010423 Z M37.5,25.465409 L37.4967587,37.5 L23.6793224,35.5558342 L23.659962,25.4428769 L37.5,25.465409 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

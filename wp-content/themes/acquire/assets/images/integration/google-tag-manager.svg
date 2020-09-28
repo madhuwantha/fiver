@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <linearGradient id="a" x1="24.691%" x2="74.734%" y1="26.425%" y2="80.127%">
+            <stop offset="0%" stop-color="#1A237E" stop-opacity=".2"/>
+            <stop offset="100%" stop-color="#1A237E" stop-opacity=".02"/>
+        </linearGradient>
+        <linearGradient id="b" x1="41.172%" x2="58.444%" y1="30.969%" y2="47.661%">
+            <stop offset="0%" stop-opacity=".2"/>
+            <stop offset="100%" stop-color="#D8D8D8" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="c" x1="41.172%" x2="63.155%" y1="30.969%" y2="52.181%">
+            <stop offset="0%" stop-opacity=".2"/>
+            <stop offset="100%" stop-color="#D8D8D8" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <rect width="50" height="50" fill="#F4F8FE" rx="4"/>
+        <path d="M39.4 23.552L26.447 10.6c-.8-.801-2.096-.801-2.896 0L10.6 23.55c-.801.801-.801 2.097 0 2.897L23.55 39.4c.801.801 2.097.801 2.897 0L39.4 26.45c.801-.801.801-2.097 0-2.897zM25 28.408L21.592 25 25 21.592 28.408 25 25 28.408z"/>
+        <path fill="#4285F4" fill-rule="nonzero" d="M39.365 23.568l-4.756-4.756-3.398-3.397-6.2 6.2 3.397 3.397-3.397 3.397-6.2 6.2 4.756 4.757a2.04 2.04 0 0 0 2.888 0l4.756-4.757 3.398-3.397 4.756-4.756a2.04 2.04 0 0 0 0-2.888z"/>
+        <path fill="#4FC3F7" fill-rule="nonzero" d="M31.211 15.415l-4.756-4.757a2.04 2.04 0 0 0-2.888 0l-4.756 4.757-3.397 3.397-4.757 4.756a2.04 2.04 0 0 0 0 2.888l4.757 4.756 3.397 3.397 6.2-6.2-3.397-3.397 3.397-3.397 6.2-6.2z"/>
+        <path fill="#FFF" fill-rule="nonzero" d="M23.567 10.828a2.04 2.04 0 0 1 2.888 0l12.91 12.91c.373.374.577.866.594 1.359a2.057 2.057 0 0 0-.594-1.529l-12.91-12.91a2.04 2.04 0 0 0-2.888 0l-12.91 12.91a2.057 2.057 0 0 0-.594 1.529c.017-.493.22-.985.594-1.359l12.91-12.91z" opacity=".2"/>
+        <path fill="url(#a)" fill-rule="nonzero" d="M15.011 18.41l-6.2 6.2 4.756 4.756a2.04 2.04 0 0 0 2.888 0l4.756-4.757-6.2-6.2z" transform="translate(10 10)"/>
+        <path fill="url(#b)" fill-opacity=".8" fill-rule="nonzero" d="M15.068 18.437l2.608 2.605-6.429 5.973-2.377-2.378z" transform="translate(10 10)"/>
+        <path fill="url(#c)" fill-opacity=".8" fill-rule="nonzero" d="M21.21 5.445l2.608 2.604-6.429 5.974-2.378-2.378z" transform="translate(10 10)"/>
+    </g>
+</svg>

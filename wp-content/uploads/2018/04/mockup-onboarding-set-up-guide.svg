@@ -1,0 +1,340 @@
+﻿<svg width="1306px" height="752px" viewBox="0 0 1306 752" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>mockup-onboarding-set-up-guide</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-7.1%" y="-17.5%" width="114.3%" height="134.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="27.8427455" in="SourceGraphic"/>
+        </filter>
+        <path d="M5.6,0 L1169.4,0 C1172.49279,-5.68137151e-16 1175,2.5072054 1175,5.6 L1175,652.4 C1175,655.492795 1172.49279,658 1169.4,658 L5.6,658 C2.5072054,658 2.3471397e-14,655.492795 2.30926389e-14,652.4 L0,5.6 C-3.78758101e-16,2.5072054 2.5072054,2.36607761e-14 5.6,2.30926389e-14 Z" id="path-2"/>
+        <rect id="path-4" x="0" y="0" width="101" height="22" rx="3"/>
+        <filter x="-14.4%" y="-56.8%" width="128.7%" height="231.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"/>
+        </filter>
+        <rect id="path-6" x="0" y="0" width="81" height="22" rx="3"/>
+        <filter x="-17.9%" y="-56.8%" width="135.8%" height="231.8%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"/>
+        </filter>
+    </defs>
+    <g id="Support" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-68.000000, -1219.000000)" id="mockup-onboarding-set-up-guide">
+            <g transform="translate(131.000000, 1219.000000)">
+                <rect id="Rectangle-14-Copy-13" fill-opacity="0.437698143" fill="#B4C3D9" filter="url(#filter-1)" x="5" y="206" width="1170" height="478"/>
+                <g id="Group-20">
+                    <g id="Rectangle">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"/>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" xlink:href="#path-2"/>
+                        <rect fill="#3448E3" mask="url(#mask-3)" x="0" y="1" width="380" height="658"/>
+                    </g>
+                </g>
+                <text id="Progress" font-family="ArialMT, Arial" font-size="12" line-spacing="12" fill="#FFFFFF" font-weight="bold">
+                    <tspan x="32" y="159">Progress</tspan>
+                </text>
+                <path d="M35.2,378.000008 L215.485066,378.000442 L344.8,378 C346.567311,377.999994 348.000005,379.432678 348.000011,381.199989 C348.000011,381.199993 348.000011,381.199996 348.000011,381.2 L348,450.8 C348,452.567311 346.567311,454 344.8,454 L35.2,454 C33.4326888,454 32,452.567311 32,450.8 L31.9999923,381.2 C31.9999923,379.432689 33.4326811,378 35.1999923,378 C35.1999949,378 35.1999974,378 35.2,378 Z" id="input-field-copy-4" fill="#FFFFFF"/>
+                <path d="M35.2,462.000008 L215.485066,462.000442 L344.8,462 C346.567311,461.999994 348.000005,463.432678 348.000011,465.199989 C348.000011,465.199993 348.000011,465.199996 348.000011,465.2 L348,534.8 C348,536.567311 346.567311,538 344.8,538 L35.2,538 C33.4326888,538 32,536.567311 32,534.8 L31.9999923,465.2 C31.9999923,463.432689 33.4326811,462 35.1999923,462 C35.1999949,462 35.1999974,462 35.2,462 Z" id="input-field-copy-5" fill="#FFFFFF"/>
+                <path d="M35.2,570.000005 L215.485066,570.000291 L344.8,570 C346.567311,569.999996 348.000003,571.432682 348.000007,573.199993 C348.000007,573.199995 348.000007,573.199998 348.000007,573.2 L348,616.8 C348,618.567311 346.567311,620 344.8,620 L35.2,620 C33.4326888,620 32,618.567311 32,616.8 L31.9999949,573.2 C31.9999949,571.432689 33.4326837,570 35.1999949,570 C35.1999966,570 35.1999983,570 35.2,570 Z" id="input-field-copy-6" fill="#1DE9B6"/>
+                <circle id="Oval-5-Copy-3" stroke="#DDDDEB" stroke-width="0.7" cx="51.5" cy="399.5" r="7.5"/>
+                <circle id="Oval-5-Copy-4" stroke="#DDDDEB" stroke-width="0.7" cx="51.5" cy="483.5" r="7.5"/>
+                <text id="2.-Import-Customer-D" font-family="Arial" font-size="18" font-weight="normal" fill="#323C47">
+                    <tspan x="430" y="66">2. Import Customer Data: Configure Fields</tspan>
+                </text>
+                <text id="Are-you-one-of-the-t-Copy-4" font-family="Arial" font-size="12" font-weight="normal" line-spacing="18" fill="#8197B1">
+                    <tspan x="430" y="92">Are you one of the thousands of Iphone owners who has no idea that they can get </tspan>
+                    <tspan x="430" y="110">free games for their Iphone? It’s pretty cool to download things from..</tspan>
+                </text>
+                <path d="M432,469 L1178.5,469" id="separator-copy-4" stroke="#DDDDEB" stroke-width="0.7" stroke-linecap="square"/>
+                <g id="Group-Copy" transform="translate(557.000000, 487.000000)" fill="#3A6BE3">
+                    <path d="M5.81264763,0 L108.785621,0 C111.547044,-5.07265313e-16 113.785621,2.23857625 113.785621,5 L113.785621,27 C113.785621,29.7614237 111.547044,32 108.785621,32 L5.81264763,32 C3.05122388,32 0.812647629,29.7614237 0.812647629,27 L0.812647629,5 C0.812647629,2.23857625 3.05122388,5.07265313e-16 5.81264763,0 Z" id="Rectangle-Copy-4"/>
+                </g>
+                <g id="Group-Copy-2" transform="translate(430.000000, 487.000000)" fill="#3A6BE3">
+                    <path d="M5.81264763,0 L108.785621,0 C111.547044,-5.07265313e-16 113.785621,2.23857625 113.785621,5 L113.785621,27 C113.785621,29.7614237 111.547044,32 108.785621,32 L5.81264763,32 C3.05122388,32 0.812647629,29.7614237 0.812647629,27 L0.812647629,5 C0.812647629,2.23857625 3.05122388,5.07265313e-16 5.81264763,0 Z" id="Rectangle-Copy-4"/>
+                </g>
+                <g id="Group-3-Copy" transform="translate(582.000000, 498.000000)">
+                    <text id="Next-Step" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="12" fill="#FFFFFF">
+                        <tspan x="0" y="11">Next Step</tspan>
+                    </text>
+                    <polyline id="Shape" stroke="#FFFFFF" transform="translate(61.181818, 6.000000) rotate(-180.000000) translate(-61.181818, -6.000000) " points="63.3636364 10 59 6 63.3636364 2"/>
+                </g>
+                <g id="Group-3-Copy-2" transform="translate(445.000000, 497.000000)">
+                    <text id="Previous-Step" font-family="ArialMT, Arial" font-size="12" line-spacing="12" fill="#FFFFFF" font-weight="normal">
+                        <tspan x="9.5" y="11">Previous Step</tspan>
+                    </text>
+                    <polyline id="Shape" stroke="#FFFFFF" transform="translate(2.181818, 6.000000) scale(-1, 1) rotate(-180.000000) translate(-2.181818, -6.000000) " points="4.36363636 10 0 6 4.36363636 2"/>
+                </g>
+                <g id="Group-3" opacity="0.5" transform="translate(32.000000, 210.000000)">
+                    <path d="M3.2,9.26451751e-06 L183.485002,0.000531218754 L312.8,2.5711433e-11 C314.567311,-7.08467308e-06 316.000006,1.43267597 316.000013,3.19998717 C316.000013,3.19999145 316.000013,3.19999572 316.000013,3.2 L316,72.8 C316,74.5673112 314.567311,76 312.8,76 L3.2,76 C1.4326888,76 -1.17739755e-14,74.5673112 -1.19904087e-14,72.8 L-9.2645041e-06,3.2 C-9.2645041e-06,1.4326888 1.43267954,3.43327427e-15 3.19999074,3.10862447e-15 C3.19999382,3.1086239e-15 3.19999691,4.47363628e-12 3.2,1.34141587e-11 Z" id="input-field-copy" fill="#FFFFFF"/>
+                    <text id="Are-you-one-of-the-t" font-family="ArialMT, Arial" font-size="10" font-weight="normal" line-spacing="14" fill="#8197B1">
+                        <tspan x="43" y="43">Are you one of the thousands of Iphone owners who has no </tspan>
+                        <tspan x="43" y="57">idea that they can get free games for their Iphone?</tspan>
+                    </text>
+                    <circle id="Oval-5-Copy" fill="#3976FC" cx="22" cy="24" r="10"/>
+                    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="20.5 25 18.5 23 17 24.5 20.5 28 27 21.5 25.5 20"/>
+                    <text id="Install-Acquire" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="12" fill="#3F5067">
+                        <tspan x="43" y="27">Install Acquire</tspan>
+                    </text>
+                </g>
+                <text id="Import-Customer-Data" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="12" fill="#323C47">
+                    <tspan x="75" y="405">Import Customer Data</tspan>
+                </text>
+                <text id="Integrate-with-other" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="12" fill="#323C47">
+                    <tspan x="75" y="489">Integrate with other apps</tspan>
+                </text>
+                <g id="Group-4" opacity="0.5" transform="translate(32.000000, 294.000000)">
+                    <path d="M3.2,7.71528644e-06 L183.485066,0.000442387452 L312.8,1.7831514e-11 C314.567311,-5.89996851e-06 316.000005,1.43267812 316.000011,3.19998932 C316.000011,3.19999288 316.000011,3.19999644 316.000011,3.2 L316,72.8 C316,74.5673112 314.567311,76 312.8,76 L3.2,76 C1.4326888,76 -1.17739755e-14,74.5673112 -1.19904087e-14,72.8 L-7.71527714e-06,3.2 C-7.71527714e-06,1.4326888 1.43268109,2.98918506e-15 3.19999228,2.66453526e-15 C3.19999486,2.66453479e-15 3.19999743,3.10299934e-12 3.2,9.30366895e-12 Z" id="input-field-copy-3" fill="#FFFFFF"/>
+                    <circle id="Oval-5-Copy" fill="#3976FC" cx="22" cy="24" r="10"/>
+                    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="20.5 25 18.5 23 17 24.5 20.5 28 27 21.5 25.5 20"/>
+                    <text id="Invite-Team-members" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="12" fill="#323C47">
+                        <tspan x="43" y="27">Invite Team members</tspan>
+                    </text>
+                    <text id="Are-you-one-of-the-t" font-family="ArialMT, Arial" font-size="10" font-weight="normal" line-spacing="14" fill="#8197B1">
+                        <tspan x="43" y="43">Are you one of the thousands of Iphone owners who has </tspan>
+                        <tspan x="43" y="57">no idea that they can get free games for their Iphone?</tspan>
+                    </text>
+                </g>
+                <text id="Are-you-one-of-the-t" font-family="ArialMT, Arial" font-size="10" font-weight="normal" line-spacing="14" fill="#8197B1">
+                    <tspan x="75" y="421">Are you one of the thousands of Iphone owners who has </tspan>
+                    <tspan x="75" y="435">no idea that they can get free games for their Iphone?</tspan>
+                </text>
+                <text id="Are-you-one-of-the-t" font-family="ArialMT, Arial" font-size="10" font-weight="normal" line-spacing="14" fill="#8197B1">
+                    <tspan x="75" y="505">Are you one of the thousands of Iphone owners who has </tspan>
+                    <tspan x="75" y="519">no idea that they can get free games for their Iphone?</tspan>
+                </text>
+                <rect id="Rectangle-9-Copy" fill="#F7F6F6" x="32" y="181" width="316" height="5" rx="2.5"/>
+                <rect id="Rectangle-9-Copy-2" fill="#FF7400" x="32" y="181" width="158" height="5" rx="2.5"/>
+                <text id="50%" font-family="ArialMT, Arial" font-size="16" font-weight="normal" line-spacing="16" fill="#FFFFFF">
+                    <tspan x="315" y="163">50%</tspan>
+                </text>
+                <text id="Are-you-one-of-the-t" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="32" y="84">Are you one of the thousands of Iphone owners who </tspan>
+                    <tspan x="32" y="102">has no idea that they can get free games for their </tspan>
+                    <tspan x="32" y="120">Iphone? It’s pretty cool to download things from..</tspan>
+                </text>
+                <text id="Your-Support-Guide" font-family="ArialMT, Arial" font-size="18" fill="#FFFFFF" font-weight="bold">
+                    <tspan x="32" y="60">Your Support Guide</tspan>
+                </text>
+                <text id="Finish-and-test!" font-family="ArialMT, Arial" font-size="18" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="128" y="601">Finish and test!</tspan>
+                </text>
+                <rect id="Rectangle-18-Copy-22" fill="#F2F4F7" x="430" y="144" width="695" height="46"/>
+                <g id="Name-Copy" transform="translate(880.000000, 152.000000)">
+                    <g id="form/input-form/long-text-copy-14">
+                        <g id="form/input-form/long-text">
+                            <path d="M3.2,4.12971314e-06 L135.312534,0.000174625609 L229.836735,5.10880227e-12 C231.604046,-3.15804371e-06 233.036737,1.43268308 233.03674,3.19999428 C233.03674,3.19999619 233.03674,3.19999809 233.03674,3.2 L233.036735,26.7998254 C233.036735,28.5671366 231.604046,29.9998254 229.836735,29.9998254 L3.2,29.9998254 C1.4326888,29.9998254 2.88096846e-15,28.5671366 2.66453526e-15,26.7998254 L-4.12971047e-06,3.2 C-4.12971047e-06,1.4326888 1.43268467,7.6873901e-16 3.19999587,4.4408921e-16 C3.19999725,4.44088957e-16 3.19999862,8.89066598e-13 3.2,2.66542344e-12 Z" id="input-field" stroke="#DDDDEB" stroke-width="0.7" fill="#FFFFFF"/>
+                            <text id="Lucille-Christensen" font-family="ArialMT, Arial" font-size="10" font-weight="normal" line-spacing="8" letter-spacing="-0.124999993" fill="#323C47">
+                                <tspan x="11.7746479" y="19">Lucille Christensen</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="icon/dropdown-arrow" transform="translate(1094.500000, 167.500000) scale(1, -1) rotate(-180.000000) translate(-1094.500000, -167.500000) translate(1087.000000, 160.000000)" fill="#8197B1" stroke="#8197B1" stroke-linecap="round" stroke-linejoin="round">
+                    <polygon id="icon-dropdown-arrow" points="5.625 6.5625 10.3125 6.5625 7.99028804 8.74604115"/>
+                </g>
+                <g id="form/input-form/long-text-copy-17" transform="translate(880.000000, 290.000000)">
+                    <g id="form/input-form/long-text">
+                        <path d="M3.2,4.12971314e-06 L135.312534,0.000174625609 L229.836735,5.10880227e-12 C231.604046,-3.15804371e-06 233.036737,1.43268308 233.03674,3.19999428 C233.03674,3.19999619 233.03674,3.19999809 233.03674,3.2 L233.036735,26.7998254 C233.036735,28.5671366 231.604046,29.9998254 229.836735,29.9998254 L3.2,29.9998254 C1.4326888,29.9998254 2.88096846e-15,28.5671366 2.66453526e-15,26.7998254 L-4.12971047e-06,3.2 C-4.12971047e-06,1.4326888 1.43268467,7.6873901e-16 3.19999587,4.4408921e-16 C3.19999725,4.44088957e-16 3.19999862,8.89066598e-13 3.2,2.66542344e-12 Z" id="input-field" stroke="#DDDDEB" stroke-width="0.7" fill="#FFFFFF"/>
+                        <text id="Snyppio-LTD" font-family="ArialMT, Arial" font-size="10" font-weight="normal" line-spacing="8" letter-spacing="-0.124999993" fill="#323C47">
+                            <tspan x="12" y="20">Snyppio LTD</tspan>
+                        </text>
+                    </g>
+                </g>
+                <rect id="Rectangle-18-Copy-23" fill="#F2F4F7" x="430" y="236" width="695" height="46"/>
+                <g id="form/input-form/long-text-copy-15" transform="translate(880.000000, 198.000000)">
+                    <g id="form/input-form/long-text">
+                        <path d="M3.2,4.12971314e-06 L135.312534,0.000174625609 L229.836735,5.10880227e-12 C231.604046,-3.15804371e-06 233.036737,1.43268308 233.03674,3.19999428 C233.03674,3.19999619 233.03674,3.19999809 233.03674,3.2 L233.036735,26.7998254 C233.036735,28.5671366 231.604046,29.9998254 229.836735,29.9998254 L3.2,29.9998254 C1.4326888,29.9998254 2.88096846e-15,28.5671366 2.66453526e-15,26.7998254 L-4.12971047e-06,3.2 C-4.12971047e-06,1.4326888 1.43268467,7.6873901e-16 3.19999587,4.4408921e-16 C3.19999725,4.44088957e-16 3.19999862,8.89066598e-13 3.2,2.66542344e-12 Z" id="input-field" stroke="#DDDDEB" stroke-width="0.7" fill="#FFFFFF"/>
+                        <text id="lucille@snyppio.com" font-family="ArialMT, Arial" font-size="10" font-weight="normal" line-spacing="8" letter-spacing="-0.124999993" fill="#323C47">
+                            <tspan x="11.7746479" y="20">lucille@snyppio.com</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="icon/dropdown-arrow" transform="translate(1094.500000, 213.500000) scale(1, -1) rotate(-180.000000) translate(-1094.500000, -213.500000) translate(1087.000000, 206.000000)" fill="#8197B1" stroke="#8197B1" stroke-linecap="round" stroke-linejoin="round">
+                    <polygon id="icon-dropdown-arrow" points="5.625 6.5625 10.3125 6.5625 7.99028804 8.74604115"/>
+                </g>
+                <g id="Group-11" transform="translate(880.000000, 244.000000)">
+                    <g id="form/input-form/long-text-copy-23">
+                        <g id="form/input-form/long-text">
+                            <path d="M3.2,4.12971314e-06 L135.312534,0.000174625609 L229.836735,5.10880227e-12 C231.604046,-3.15804371e-06 233.036737,1.43268308 233.03674,3.19999428 C233.03674,3.19999619 233.03674,3.19999809 233.03674,3.2 L233.036735,26.7998254 C233.036735,28.5671366 231.604046,29.9998254 229.836735,29.9998254 L3.2,29.9998254 C1.4326888,29.9998254 2.88096846e-15,28.5671366 2.66453526e-15,26.7998254 L-4.12971047e-06,3.2 C-4.12971047e-06,1.4326888 1.43268467,7.6873901e-16 3.19999587,4.4408921e-16 C3.19999725,4.44088957e-16 3.19999862,8.89066598e-13 3.2,2.66542344e-12 Z" id="input-field" stroke="#DDDDEB" stroke-width="0.7" fill="#FFFFFF"/>
+                            <text id="+48-508-915-318" font-family="ArialMT, Arial" font-size="10" font-weight="normal" line-spacing="8" letter-spacing="-0.124999993" fill="#323C47">
+                                <tspan x="11.7746479" y="20">+48 508 915 318</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="icon/dropdown-arrow" transform="translate(214.500000, 15.500000) scale(1, -1) rotate(-180.000000) translate(-214.500000, -15.500000) translate(207.000000, 8.000000)" fill="#8197B1" stroke="#8197B1" stroke-linecap="round" stroke-linejoin="round">
+                        <polygon id="icon-dropdown-arrow" points="5.625 6.5625 10.3125 6.5625 7.99028804 8.74604115"/>
+                    </g>
+                </g>
+                <g id="icon/dropdown-arrow" transform="translate(1094.500000, 304.500000) scale(1, -1) rotate(-180.000000) translate(-1094.500000, -304.500000) translate(1087.000000, 297.000000)" fill="#8197B1" stroke="#8197B1" stroke-linecap="round" stroke-linejoin="round">
+                    <polygon id="icon-dropdown-arrow" points="5.625 6.5625 10.3125 6.5625 7.99028804 8.74604115"/>
+                </g>
+                <rect id="Rectangle-18-Copy-24" fill="#F2F4F7" x="430" y="328" width="695" height="46"/>
+                <g id="from/input-form/long-tags-2" transform="translate(880.000000, 336.000000)">
+                    <rect id="input-field" stroke="#DDDDEB" stroke-width="0.7" fill="#FFFFFF" x="0" y="0" width="233" height="30" rx="3.2"/>
+                    <g id="tag-2" transform="translate(3.741538, 4.000000)">
+                        <g id="bg-tag">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"/>
+                            <use fill="#EAECEE" fill-rule="evenodd" xlink:href="#path-4"/>
+                        </g>
+                        <g id="icon/sidebar/close" transform="translate(87.000000, 6.000000)" fill="#8197B1">
+                            <path d="M5.4799295,5.50006222 L8.02567694,2.69974004 C8.15825852,2.55414917 8.15825852,2.31747068 8.02567694,2.17187981 C7.89309535,2.02604006 7.67838558,2.02604006 7.545804,2.17187981 L5.00005656,4.97220199 L2.45430913,2.17187981 C2.32172754,2.02604006 2.10701777,2.02604006 1.97443619,2.17187981 C1.8418546,2.31747068 1.8418546,2.55414917 1.97443619,2.69974004 L4.52018362,5.50006222 L1.97443619,8.3003844 C1.8418546,8.44597527 1.8418546,8.68265376 1.97443619,8.82824463 C2.04072698,8.9011645 2.12760638,8.9375 2.21448578,8.9375 C2.30136518,8.9375 2.38801834,8.9011645 2.45430913,8.82824463 L5.00005656,6.02792245 L7.545804,8.82824463 C7.61209479,8.9011645 7.69897419,8.9375 7.78585359,8.9375 C7.87273299,8.9375 7.95938614,8.9011645 8.02567694,8.82824463 C8.15825852,8.68265376 8.15825852,8.44597527 8.02567694,8.3003844 L5.4799295,5.50006222"/>
+                        </g>
+                        <text id="tag" font-family="Arial" font-size="12" font-weight="normal" line-spacing="12" fill="#6B7388">
+                            <tspan x="5" y="17">Premium Lead</tspan>
+                        </text>
+                    </g>
+                    <g id="tag-2-copy-2" transform="translate(111.000000, 4.000000)">
+                        <g id="bg-tag">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"/>
+                            <use fill="#EAECEE" fill-rule="evenodd" xlink:href="#path-6"/>
+                        </g>
+                        <g id="icon/sidebar/close" transform="translate(68.000000, 6.000000)" fill="#8197B1">
+                            <path d="M5.4799295,5.50006222 L8.02567694,2.69974004 C8.15825852,2.55414917 8.15825852,2.31747068 8.02567694,2.17187981 C7.89309535,2.02604006 7.67838558,2.02604006 7.545804,2.17187981 L5.00005656,4.97220199 L2.45430913,2.17187981 C2.32172754,2.02604006 2.10701777,2.02604006 1.97443619,2.17187981 C1.8418546,2.31747068 1.8418546,2.55414917 1.97443619,2.69974004 L4.52018362,5.50006222 L1.97443619,8.3003844 C1.8418546,8.44597527 1.8418546,8.68265376 1.97443619,8.82824463 C2.04072698,8.9011645 2.12760638,8.9375 2.21448578,8.9375 C2.30136518,8.9375 2.38801834,8.9011645 2.45430913,8.82824463 L5.00005656,6.02792245 L7.545804,8.82824463 C7.61209479,8.9011645 7.69897419,8.9375 7.78585359,8.9375 C7.87273299,8.9375 7.95938614,8.9011645 8.02567694,8.82824463 C8.15825852,8.68265376 8.15825852,8.44597527 8.02567694,8.3003844 L5.4799295,5.50006222"/>
+                        </g>
+                        <text id="tag" font-family="Arial" font-size="12" font-weight="normal" line-spacing="12" fill="#6B7388">
+                            <tspan x="5" y="17">Enterpreise</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="icon/dropdown-arrow" transform="translate(1094.500000, 351.500000) scale(1, -1) rotate(-180.000000) translate(-1094.500000, -351.500000) translate(1087.000000, 344.000000)" fill="#8197B1" stroke="#8197B1" stroke-linecap="round" stroke-linejoin="round">
+                    <polygon id="icon-dropdown-arrow" points="5.625 6.5625 10.3125 6.5625 7.99028804 8.74604115"/>
+                </g>
+                <text id="first_name-+-last_na" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#6A7A8E">
+                    <tspan x="454" y="171">first_name + last_name</tspan>
+                </text>
+                <g id="Group-6" transform="translate(612.000000, 160.000000)" fill="#6A7A8E" font-family="ArialMT, Arial" font-size="12" font-weight="normal" opacity="0.5">
+                    <text id="Ida-Norris,">
+                        <tspan x="0" y="11">Ida Norris,</tspan>
+                    </text>
+                    <text id="Sara-Cunningham,">
+                        <tspan x="129" y="11">Sara Cunningham,</tspan>
+                    </text>
+                    <text id="Kevin-Cook,">
+                        <tspan x="60" y="11">Kevin Cook,</tspan>
+                    </text>
+                </g>
+                <text id="reichel.quincy@yahoo" opacity="0.5" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#6A7A8E">
+                    <tspan x="520" y="216">reichel.quincy@yahoo.com,</tspan>
+                </text>
+                <text id="Small-business," opacity="0.5" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#6A7A8E">
+                    <tspan x="510" y="355">Small business,</tspan>
+                </text>
+                <text id="Enterpreise," opacity="0.5" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#6A7A8E">
+                    <tspan x="597" y="355">Enterpreise,</tspan>
+                </text>
+                <text id="020-388-0471," opacity="0.5" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#6A7A8E">
+                    <tspan x="570" y="263">020-388-0471,</tspan>
+                </text>
+                <text id="020-388-0471," opacity="0.5" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#6A7A8E">
+                    <tspan x="735" y="263">020-388-0471,</tspan>
+                </text>
+                <text id="destiny_monahan@yaho" opacity="0.5" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#6A7A8E">
+                    <tspan x="669" y="216">destiny_monahan@yahoo.com</tspan>
+                </text>
+                <text id="Premium-Lead," opacity="0.5" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#6A7A8E">
+                    <tspan x="756" y="355">Premium Lead,</tspan>
+                </text>
+                <text id="Annoying-client," opacity="0.5" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#6A7A8E">
+                    <tspan x="666" y="355">Annoying client,</tspan>
+                </text>
+                <text id="516-364-3393," opacity="0.5" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#6A7A8E">
+                    <tspan x="653" y="263">516-364-3393,</tspan>
+                </text>
+                <text id="e-mail" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#6A7A8E">
+                    <tspan x="454" y="217">e-mail</tspan>
+                </text>
+                <text id="phone_number" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#6A7A8E">
+                    <tspan x="454" y="263">phone_number</tspan>
+                </text>
+                <text id="tags" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#6A7A8E">
+                    <tspan x="454" y="355">tags</tspan>
+                </text>
+                <g id="Group-12" transform="translate(454.000000, 298.000000)" fill="#6A7A8E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                    <text id="Blue-Solutions," opacity="0.5">
+                        <tspan x="119" y="11">Blue Solutions,</tspan>
+                    </text>
+                    <text id="Olive.io," opacity="0.5">
+                        <tspan x="281" y="11">Olive.io,</tspan>
+                    </text>
+                    <text id="Fuchsia-Tech," opacity="0.5">
+                        <tspan x="202" y="11">Fuchsia Tech,</tspan>
+                    </text>
+                    <text id="Yellow-Tree," opacity="0.5">
+                        <tspan x="329" y="11">Yellow Tree,</tspan>
+                    </text>
+                    <text id="company_name">
+                        <tspan x="0" y="11">company_name</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-2" fill-opacity="0.1" fill="#8197B1" x="430" y="398" width="695" height="46" rx="4"/>
+                <g id="Group-13" transform="translate(880.000000, 406.000000)">
+                    <g id="Group-10">
+                        <g id="form/input-form/long-text-copy-18">
+                            <g id="form/input-form/long-text">
+                                <path d="M3.2,4.13036423e-06 L135.291204,0.000174625609 L229.8,5.11057863e-12 C231.567311,-3.15854157e-06 233.000003,1.43268308 233.000006,3.19999428 C233.000006,3.19999619 233.000006,3.19999809 233.000006,3.2 L233,26.7998254 C233,28.5671366 231.567311,29.9998254 229.8,29.9998254 L3.2,29.9998254 C1.4326888,29.9998254 -8.97535475e-15,28.5671366 -1.15463195e-14,26.7998254 L-4.13036156e-06,3.2 C-4.13036156e-06,1.4326888 1.43268467,-5.63528619e-16 3.19999587,-8.8817842e-16 C3.19999725,-8.88178673e-16 3.19999862,8.8723103e-13 3.2,2.66453526e-12 Z" id="input-field" stroke="#DDDDEB" stroke-width="0.7" fill="#FFFFFF"/>
+                                <text id="Choose-field-type" font-family="Arial" font-size="10" font-weight="normal" line-spacing="8" letter-spacing="-0.124999993" fill="#323C47">
+                                    <tspan x="9.19736842" y="21">Choose field type</tspan>
+                                    
+                                </text>
+                            </g>
+                        </g>
+                        <g id="icon/dropdown-arrow" transform="translate(214.500000, 14.500000) scale(1, -1) rotate(-180.000000) translate(-214.500000, -14.500000) translate(207.000000, 7.000000)" fill="#8197B1" stroke="#8197B1" stroke-linecap="round" stroke-linejoin="round">
+                            <polygon id="icon-dropdown-arrow" points="5.625 6.5625 10.3125 6.5625 7.99028804 8.74604115"/>
+                        </g>
+                    </g>
+                </g>
+                <text id="Add-Field" font-family="Arial" font-size="12" font-weight="normal" line-spacing="12" fill="#8197B1">
+                    <tspan x="469" y="427">Add Field</tspan>
+                </text>
+                <path d="M455.25,420.25 L450.75,420.25 L450.75,415.75 C450.75,415.3 450.45,415 450,415 C449.55,415 449.25,415.3 449.25,415.75 L449.25,420.25 L444.75,420.25 C444.3,420.25 444,420.55 444,421 C444,421.45 444.3,421.75 444.75,421.75 L449.25,421.75 L449.25,426.25 C449.25,426.7 449.55,427 450,427 C450.45,427 450.75,426.7 450.75,426.25 L450.75,421.75 L455.25,421.75 C455.7,421.75 456,421.45 456,421 C456,420.55 455.7,420.25 455.25,420.25 Z" id="Shape" fill="#8197B1" fill-rule="nonzero"/>
+                <g id="additional/cursor/co-browsing/customer" transform="translate(482.000000, 359.000000)">
+                    <g>
+                        <g id="additional/label-black" transform="translate(0.000000, 35.508675)">
+                            <g>
+                                <rect id="bg" fill="#323C47" x="0" y="5.19639139" width="69.2852186" height="27.7140874" rx="5.19639139"/>
+                                <polygon id="Triangle" fill="#323C47" transform="translate(34.642609, 3.031228) scale(1, -1) translate(-34.642609, -3.031228) " points="34.6426093 6.06245663 39.8390007 0 29.4462179 0"/>
+                                <text id="Customer" font-family="ArialMT, Arial" font-size="10.3927828" font-weight="normal" line-spacing="10.3927828" fill="#FFFFFF">
+                                    <tspan x="12.1249133" y="22.8570437">Customer</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="icon/cursor/hand-black" transform="translate(19.053435, 0.000000)">
+                            <g id="Shape">
+                                <path d="M24.4268051,12.7816166 C24.4252989,12.7811146 20.2995649,12.0742045 12.0496032,10.6608865 L12.0496032,3.38895091 C12.0496032,1.52050931 10.5290939,0 8.66065232,0 C6.79221072,0 5.27170142,1.52050931 5.27170142,3.38895091 L5.27170142,15.062004 L3.76550101,15.062004 C1.68920375,15.062004 0,16.7512078 0,18.8275051 L0,23.1887083 C0,25.4028229 0.762137405,27.5747639 2.10265576,29.2451402 L5.39445675,34.3007018 C5.53302719,34.5138292 5.77025375,34.6426093 6.02480162,34.6426093 L25.6054069,34.6426093 C25.9774384,34.6426093 26.2929874,34.3714932 26.3494699,34.0039803 L28.6931177,18.7695163 C29.1306689,15.9265631 27.2562025,13.2959841 24.4268051,12.7816166 Z" fill="#323C47" fill-rule="nonzero"/>
+                                <path d="M27.2049917,18.5405739 L24.9592469,33.1364089 L6.43298193,33.1364089 L3.32117189,28.3632598 C2.15085418,26.9007392 1.5062004,25.0624216 1.5062004,23.1887083 L1.5062004,18.8275051 C1.5062004,17.5818773 2.51987328,16.5682044 3.76550101,16.5682044 L5.27170142,16.5682044 L5.27170142,21.0868057 C5.27170142,21.5032701 5.60909031,21.8399059 6.02480162,21.8399059 C6.44051293,21.8399059 6.77790182,21.5032701 6.77790182,21.0868057 L6.77790182,15.8151042 L6.77790182,3.38895091 C6.77790182,2.35042573 7.62288025,1.5062004 8.66065232,1.5062004 C9.6984244,1.5062004 10.5434028,2.35042573 10.5434028,3.38895091 L10.5434028,11.296503 C10.5434028,11.6632628 10.807741,11.9765525 11.1692291,12.0383067 L24.1602076,14.2629647 C26.1800223,14.63349 27.5175283,16.5117219 27.2049917,18.5405739 Z" fill="#FFFFFF" fill-rule="nonzero"/>
+                                <path d="M12.0496032,27.8647075 C11.6338919,27.8647075 11.296503,27.5280717 11.296503,27.1116073 L11.296503,19.5806053 C11.296503,19.1641408 11.6338919,18.8275051 12.0496032,18.8275051 C12.4653145,18.8275051 12.8027034,19.1641408 12.8027034,19.5806053 L12.8027034,27.1116073 C12.8027034,27.5280717 12.4653145,27.8647075 12.0496032,27.8647075 Z" fill="#323C47" fill-rule="nonzero"/>
+                                <path d="M16.5682044,27.8647075 C16.1524931,27.8647075 15.8151042,27.5280717 15.8151042,27.1116073 L15.8151042,19.5806053 C15.8151042,19.1641408 16.1524931,18.8275051 16.5682044,18.8275051 C16.9839158,18.8275051 17.3213046,19.1641408 17.3213046,19.5806053 L17.3213046,27.1116073 C17.3213046,27.5280717 16.9839158,27.8647075 16.5682044,27.8647075 Z" fill="#323C47" fill-rule="nonzero"/>
+                                <path d="M21.0868057,27.8647075 C20.6710943,27.8647075 20.3337055,27.5280717 20.3337055,27.1116073 L20.3337055,19.5806053 C20.3337055,19.1641408 20.6710943,18.8275051 21.0868057,18.8275051 C21.502517,18.8275051 21.8399059,19.1641408 21.8399059,19.5806053 L21.8399059,27.1116073 C21.8399059,27.5280717 21.502517,27.8647075 21.0868057,27.8647075 Z" fill="#323C47" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="additional/cursor/co-browsing/agent" transform="translate(960.000000, 552.000000)">
+                    <g>
+                        <g id="additional/label-blue" transform="translate(0.000000, 34.887650)">
+                            <g>
+                                <rect id="bg" fill="#3A6BE3" x="0" y="5.23314748" width="69.7752997" height="27.9101199" rx="5.23314748"/>
+                                <polygon id="Triangle" fill="#3A6BE3" transform="translate(34.887650, 3.052669) scale(1, -1) translate(-34.887650, -3.052669) " points="34.8876499 6.10533873 40.1207973 0 29.6545024 0"/>
+                                <text id="Agent" font-family="ArialMT, Arial" font-size="10.466295" font-weight="normal" line-spacing="10.466295" fill="#FFFFFF">
+                                    <tspan x="20.9325899" y="22.9550599">Agent</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="icon/cursor/hand-blue" transform="translate(20.932590, 0.000000)">
+                            <g id="Shape">
+                                <path d="M24.5995853,12.8720259 C24.5980684,12.8715203 20.4431516,12.15961 12.1348347,10.736295 L12.1348347,3.41292227 C12.1348347,1.53126446 10.6035703,0 8.72191247,0 C6.84025465,0 5.3089902,1.53126446 5.3089902,3.41292227 L5.3089902,15.1685434 L3.79213585,15.1685434 C1.70115214,15.1685434 0,16.8696956 0,18.9606793 L0,23.352731 C0,25.5825069 0.767528297,27.7698109 2.11752866,29.4520023 L5.43261382,34.5433239 C5.57216442,34.7579588 5.81106898,34.8876499 6.06741737,34.8876499 L25.7865238,34.8876499 C26.1611868,34.8876499 26.4789678,34.6146161 26.5358499,34.2445036 L28.8960752,18.9022804 C29.3367214,16.0392178 27.4489962,13.3900317 24.5995853,12.8720259 Z" fill="#3A6BE3" fill-rule="nonzero"/>
+                                <path d="M27.3974231,18.6717185 L25.1357933,33.3707955 L6.47848489,33.3707955 L3.34466382,28.5638841 C2.166068,27.0910185 1.51685434,25.2396978 1.51685434,23.352731 L1.51685434,18.9606793 C1.51685434,17.7062407 2.53769731,16.6853978 3.79213585,16.6853978 L5.3089902,16.6853978 L5.3089902,21.2359608 C5.3089902,21.655371 5.64876557,21.994388 6.06741737,21.994388 C6.48606917,21.994388 6.82584454,21.655371 6.82584454,21.2359608 L6.82584454,15.9269706 L6.82584454,3.41292227 C6.82584454,2.3670512 7.67679982,1.51685434 8.72191247,1.51685434 C9.76702511,1.51685434 10.6179804,2.3670512 10.6179804,3.41292227 L10.6179804,11.3764076 C10.6179804,11.7457616 10.8841883,12.0612673 11.2482334,12.1234583 L24.3311021,14.3638522 C26.3652037,14.7369984 27.7121704,16.6285157 27.3974231,18.6717185 Z" fill="#FFFFFF" fill-rule="nonzero"/>
+                                <path d="M12.1348347,28.0618053 C11.7161829,28.0618053 11.3764076,27.7227884 11.3764076,27.3033782 L11.3764076,19.7191064 C11.3764076,19.2996962 11.7161829,18.9606793 12.1348347,18.9606793 C12.5534865,18.9606793 12.8932619,19.2996962 12.8932619,19.7191064 L12.8932619,27.3033782 C12.8932619,27.7227884 12.5534865,28.0618053 12.1348347,28.0618053 Z" fill="#3A6BE3" fill-rule="nonzero"/>
+                                <path d="M16.6853978,28.0618053 C16.266746,28.0618053 15.9269706,27.7227884 15.9269706,27.3033782 L15.9269706,19.7191064 C15.9269706,19.2996962 16.266746,18.9606793 16.6853978,18.9606793 C17.1040496,18.9606793 17.4438249,19.2996962 17.4438249,19.7191064 L17.4438249,27.3033782 C17.4438249,27.7227884 17.1040496,28.0618053 16.6853978,28.0618053 Z" fill="#3A6BE3" fill-rule="nonzero"/>
+                                <path d="M21.2359608,28.0618053 C20.817309,28.0618053 20.4775336,27.7227884 20.4775336,27.3033782 L20.4775336,19.7191064 C20.4775336,19.2996962 20.817309,18.9606793 21.2359608,18.9606793 C21.6546126,18.9606793 21.994388,19.2996962 21.994388,19.7191064 L21.994388,27.3033782 C21.994388,27.7227884 21.6546126,28.0618053 21.2359608,28.0618053 Z" fill="#3A6BE3" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

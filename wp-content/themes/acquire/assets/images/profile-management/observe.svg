@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="100px" viewBox="0 0 101 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>observe</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="100"></rect>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.500000,0.000000),scale(0.780000,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-3">
+            <stop stop-color="#FFD969" offset="0%"></stop>
+            <stop stop-color="#FFB322" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="100%" y1="12.5148721%" x2="15.6306635%" y2="80.5321729%" id="linearGradient-4">
+            <stop stop-color="#059EFF" offset="0%"></stop>
+            <stop stop-color="#0265FF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-10.9%" y="-12.7%" width="121.9%" height="125.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="observe" transform="translate(0.200000, 0.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="Group-7" mask="url(#mask-2)">
+                <g transform="translate(-1.000000, -1.000000)">
+                    <rect id="Rectangle-Copy-71" fill="url(#radialGradient-3)" fill-rule="nonzero" opacity="0.5" transform="translate(52.666667, 37.500000) rotate(-6.000000) translate(-52.666667, -37.500000) " x="11" y="5" width="83.3333333" height="65" rx="4.41739923"></rect>
+                    <rect id="Rectangle-Copy-71" fill="url(#radialGradient-3)" fill-rule="nonzero" transform="translate(48.666667, 46.500000) rotate(-14.000000) translate(-48.666667, -46.500000) " x="7" y="14" width="83.3333333" height="65" rx="4.41739923"></rect>
+                    <rect id="Rectangle-Copy-72" fill="url(#linearGradient-4)" fill-rule="evenodd" x="19" y="30" width="82" height="71" rx="4.41739923"></rect>
+                    <path d="M101,34.1036737 L101,96.2688753 C101,98.7085375 99.022263,100.686275 96.5826008,100.686275 L23.0644581,100.686275 C20.853361,100.686275 19.0216907,99.0617557 18.6978899,96.941161 C18.9324297,96.9800855 19.1725888,97 19.4173992,97 L19.4173992,97 L92.9355419,97 C95.3752042,97 97.3529412,95.022263 97.3529412,92.5826008 L97.3529412,92.5826008 L97.3529412,30.4173992 C97.3529412,30.1891206 97.3356255,29.9648862 97.3022359,29.7459379 C99.3993543,30.0879439 101,31.9088834 101,34.1036737 Z" id="Combined-Shape" fill="#EEF3F9" fill-rule="evenodd" opacity="0.363839286" filter="url(#filter-5)"></path>
+                    <path d="M59.8518413,61.1764706 C63.4651692,61.1764706 66.9293421,62.4515617 69.8698609,64.8640494 C72.081177,66.6781223 73.2191751,68.4883388 73.2663615,68.5643316 L73.5490196,69.0196078 L73.2663615,69.4748841 C73.2191751,69.5508769 72.081177,71.3610934 69.8698609,73.1751662 C66.9293421,75.587654 63.4651692,76.8627451 59.8518413,76.8627451 L59.8235294,76.8627451 C56.2207896,76.8563935 52.7589186,75.581756 49.8091926,73.176981 C47.5854469,71.3640424 46.4345589,69.5549601 46.3869121,69.4789673 L46.0980392,69.0196078 L46.3869121,68.5602484 C46.4345589,68.4842556 47.5854469,66.6751733 49.8091926,64.8622347 C52.7589186,62.4574596 56.2207896,61.1828222 59.8235294,61.1764706 L59.8518413,61.1764706 Z M59.8235294,65.0980392 C57.6606008,65.098809 55.9019608,66.8577569 55.9019608,69.0196078 C55.9019608,71.1814587 57.6606008,72.9404067 59.8222978,72.9411765 L59.8222978,72.9411765 C61.9856882,72.9411765 63.745098,71.1817667 63.745098,69.0196078 C63.745098,66.857449 61.9856882,65.0980392 59.8235294,65.0980392 L59.8235294,65.0980392 Z" id="Combined-Shape-Copy-9" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="Rectangle-Copy-74" fill="#FFFFFF" fill-rule="evenodd" opacity="0.5" x="21" y="32" width="78.4313725" height="7.84313725" rx="3.92156863"></rect>
+                    <circle id="Oval-Copy-10" fill="#0383FF" fill-rule="evenodd" cx="25.5098039" cy="35.5882353" r="1.96078431"></circle>
+                    <circle id="Oval-Copy-11" fill="#0383FF" fill-rule="evenodd" cx="31.3921569" cy="35.5882353" r="1.96078431"></circle>
+                    <circle id="Oval-Copy-12" fill="#0383FF" fill-rule="evenodd" cx="37.2745098" cy="35.5882353" r="1.96078431"></circle>
+                    <g id="Group-73-Copy" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(37.274510, 51.372549)" opacity="0.5">
+                        <polygon id="Path-Copy-16" fill="#FFFFFF" fill-rule="nonzero" points="44.6675387 4.02975651 43.3463071 4.02975651 43.3463071 1.32123164 40.588236 1.32123164 40.588236 0 44.6675387 0"></polygon>
+                        <polygon id="Path-Copy-17" fill="#FFFFFF" fill-rule="nonzero" points="44.6675387 35.5983845 40.588236 35.5983845 40.588236 34.2771529 43.3463071 34.2771529 43.3463071 31.568628 44.6675387 31.568628"></polygon>
+                        <polygon id="Path-Copy-18" fill="#FFFFFF" fill-rule="nonzero" transform="translate(2.039651, 2.014878) scale(-1, 1) translate(-2.039651, -2.014878) " points="4.07930269 4.02975651 2.75807105 4.02975651 2.75807105 1.32123164 0 1.32123164 0 0 4.07930269 0"></polygon>
+                        <polygon id="Path-Copy-19" fill="#FFFFFF" fill-rule="nonzero" transform="translate(2.039651, 33.583506) scale(-1, 1) translate(-2.039651, -33.583506) " points="4.07930269 35.5983845 0 35.5983845 0 34.2771529 2.75807105 34.2771529 2.75807105 31.568628 4.07930269 31.568628"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
