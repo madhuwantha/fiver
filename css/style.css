@@ -7667,3 +7667,7 @@ body {
 @import url(https://acquire.io/wp-content/themes/acquire/assets/css/stylenew.css);
 @import url(https://acquire.io/wp-content/themes/acquire/assets/css/default.css);
 @import url(https://acquire.io/wp-content/themes/acquire/assets/css/acquire-style.css);
+
+.custom-display-row {
+  padding: 0px;
+}
