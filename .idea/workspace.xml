@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a544861-53f5-4d48-adf1-848a947f7863" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/Supply_Chain_Managemen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Supply_Chain_Managemen_" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/assitance.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/your_business.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +33,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\FIver\Sembula\Tradevy\js" />
       <recent name="F:\Fiverr\Tradevy\images" />
     </key>
   </component>
@@ -55,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601148724762</updated>
       <workItem from="1601148725826" duration="3649000" />
-      <workItem from="1601705136661" duration="6587000" />
+      <workItem from="1601705136661" duration="11914000" />
     </task>
     <servers />
   </component>
@@ -64,5 +60,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601719100107">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1601719100107" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601715345459">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1601715345459" />
   </component>
 </project>
